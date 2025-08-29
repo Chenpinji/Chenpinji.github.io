@@ -13,13 +13,7 @@ main:
     url: /
 
   - title: "Publications"
-    url: /publications/
-
-  - title: "Education & Awards"
-    url: /awards/
-
-  - title: "News"
-    url: /news/
+    url: /publication/
 
   - title: "Contacts"
     url: /contact/

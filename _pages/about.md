@@ -39,7 +39,7 @@ His research interests include protocol security, web security, and AI security.
 - **2020** — 🥈Runner-up, Men’s Team & Mixed Doubles, Hubei Provincial University Table Tennis Championship  
 - **2018** — 5th Place, Men’s Singles, National High School Table Tennis Championship  
 - **2018** — 🥇Champion (Team) & 🥈Runner-up (Singles), Hubei Provincial High School Table Tennis Championship  
-- **2017** — 🥇Champion, Men’s Singles, Beijing High School Table Tennis Championship  
+- **2017** — 🥇Champion, Men’s Singles, Beijing Middle School Table Tennis Championship  
 - **2014** — 🥇Champion, Men’s Singles, Beijing Primary School Table Tennis Championship  
 - **2013** — 🥇Champion (Team) & 🥈Runner-up (Singles), China Youth Innovation Cup Table Tennis Championship  
 - **2013** — 🥈Runner-up, Men’s Singles, Beijing Primary School Table Tennis Championship  
