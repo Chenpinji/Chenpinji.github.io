@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## ??? About Me  
+## ğŸ‘¨â€ğŸ’» About Me  
 
 <div style="font-size: 16px; line-height: 1.7;">
 
@@ -20,15 +20,15 @@ His research has been published at major security conferences, including **USENI
 
 </div>
 
-## ? News  
+## ğŸ“° News  
 
 <div style="font-size: 16px; line-height: 1.6;">
 
-- <span style="color:#1a73e8; font-weight:bold;">Aug 2025</span> ¡ª I gave a presentation at <a href="https://www.blackhat.com/us-25/briefings/schedule/index.html#cross-origin-web-attacks-via-http2-server-push-and-signed-http-exchange-45150" target="_blank" >Black Hat USA 2025</a>  
+- <span style="color:#1a73e8; font-weight:bold;">Aug 2025</span> â€” I gave a presentation at <a href="https://www.blackhat.com/us-25/briefings/schedule/index.html#cross-origin-web-attacks-via-http2-server-push-and-signed-http-exchange-45150" target="_blank" >Black Hat USA 2025</a>  
 
-- <span style="color:#1a73e8; font-weight:bold;">Feb 2025</span> ¡ª Our work *Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange* appeared at **NDSS 2025**  
+- <span style="color:#1a73e8; font-weight:bold;">Feb 2025</span> â€” Our work *Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange* appeared at **NDSS 2025**  
 
-- <span style="color:#1a73e8; font-weight:bold;">Aug 2024</span> ¡ª Our work *More Simplicity for Trainers, More Opportunity for Attackers: Black-Box Attacks on Speaker Recognition Systems by Inferring Feature Extractor* appeared at **USENIX Security 2025**  
+- <span style="color:#1a73e8; font-weight:bold;">Aug 2024</span> â€” Our work *More Simplicity for Trainers, More Opportunity for Attackers: Black-Box Attacks on Speaker Recognition Systems by Inferring Feature Extractor* appeared at **USENIX Security 2025**  
 
 </div>
 
