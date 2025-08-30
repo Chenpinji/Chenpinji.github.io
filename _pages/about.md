@@ -53,7 +53,7 @@ His research interests include protocol security, web security, and AI security.
 
 - <span style="color:#1a73e8; font-weight:bold;">Aug 2025</span> — Honored to be a *Briefings Speaker* at **Black Hat USA 2025** 🎉🎉🎉  Awesome experience in Las Vegas! Incredible event 👍👍👍 [[Link]](https://www.blackhat.com/us-25/briefings/schedule/index.html#cross-origin-web-attacks-via-http2-server-push-and-signed-http-exchange-45150)
 
-- <span style="color:#1a73e8; font-weight:bold;">July 2025</span> — Our work: *The Danger of Packet Length Leakage: Off-path TCP/IP Hijacking Attacks Against Wireless and Mobile Networks* appeared at **EuroSP 2025** 🎉🎉🎉 [[Link]](https://eurosp2025.ieee-security.org/accepted_and_awards.html)
+- <span style="color:#1a73e8; font-weight:bold;">July 2025</span> — Our work: *The Danger of Packet Length Leakage: Off-path TCP/IP Hijacking Attacks Against Wireless and Mobile Networks* appeared at **EuroS&P 2025** 🎉🎉🎉 [[Link]](https://eurosp2025.ieee-security.org/accepted_and_awards.html)
 
 - <span style="color:#1a73e8; font-weight:bold;">Feb 2025</span> — Our work: *Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange* appeared at **NDSS 2025** 🎉🎉🎉 [[Link]](https://www.ndss-symposium.org/ndss-paper/cross-origin-web-attacks-via-http-2-server-push-and-signed-http-exchange/)
 
