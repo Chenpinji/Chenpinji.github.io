@@ -14,7 +14,7 @@ author_profile: true
 
 **[2] More Simplicity for Trainers, More Opportunity for Attackers: Black-Box Attacks on Speaker Recognition Systems by Inferring Feature Extractor**  
 *33th USENIX Conference on Security Symposium **(USENIX Security'24)***  
-Yunjie Ge, **Pinji Chen**, Qian Wang, Lingchen Zhao, Ningping Mou,  Peipei Jiang, Cong Wang, Qi Li, Chao Shen
+Yunjie Ge\*, **Pinji Chen\***, Qian Wang, Lingchen Zhao, Ningping Mou,  Peipei Jiang, Cong Wang, Qi Li, Chao Shen
 
 
 [📄 Paper](https://www.usenix.org/system/files/usenixsecurity24-ge-attacks.pdf) · [🎥 Video](https://www.youtube.com/watch?v=Rr5logU-JPQ&t=3s)
