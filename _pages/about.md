@@ -25,6 +25,7 @@ His research interests include protocol security, web security, and AI security.
 
 ## 🏆 Selected Awards and Honors
 
+- **First-Class Scholarship**, Tsinghua University, 2025
 - **Top Ten Outstanding Youth** *(10 students across the university)*, Wuhan University , 2024
 - **Person of the Year** *(Model Luojia, 10 undergraduates across the university)*, Wuhan University, 2024
 - **National Scholarship** *(Top 1%)*, Ministry of Education of China, 2023
@@ -57,6 +58,6 @@ His research interests include protocol security, web security, and AI security.
 
 - <span style="color:#1a73e8; font-weight:bold;">Feb 2025</span> — Our work: *Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange* appeared at **NDSS 2025** 🎉🎉🎉 [[Link]](https://www.ndss-symposium.org/ndss-paper/cross-origin-web-attacks-via-http-2-server-push-and-signed-http-exchange/)
 
-- <span style="color:#1a73e8; font-weight:bold;">Aug 2024</span> — Our work: *More Simplicity for Trainers, More Opportunity for Attackers: Black-Box Attacks on Speaker Recognition Systems by Inferring Feature Extractor* appeared at **USENIX Security 2025** 🎉🎉🎉 [[Link]](https://www.usenix.org/conference/usenixsecurity24/presentation/ge-attacks)
+- <span style="color:#1a73e8; font-weight:bold;">Aug 2024</span> — Our work: *More Simplicity for Trainers, More Opportunity for Attackers: Black-Box Attacks on Speaker Recognition Systems by Inferring Feature Extractor* appeared at **USENIX Security 2024** 🎉🎉🎉 [[Link]](https://www.usenix.org/conference/usenixsecurity24/presentation/ge-attacks)
 
 
