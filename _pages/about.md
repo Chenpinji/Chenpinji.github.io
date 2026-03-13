@@ -12,7 +12,7 @@ redirect_from:
 
 Pinji Chen is a Ph.D. student in the Institute for Network Sciences and Cyberspace at Tsinghua University. He works in the [Network and Information Security (NISL) Lab](https://netsec.ccert.edu.cn/about), advised by Prof. [Jianjun Chen](https://jianjunchen.com/) and [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). 
 
-His research interests include protocol security, web security, and AI security. He is particularly interested in exploring emerging technologies and identifying & mitigating their vulnerabilities. His research has been published at major security conferences, including **USENIX Security 2024**, **NDSS 2025**, and **Black Hat USA 2025**.  
+His research interests include protocol security, web security, and AI security. He is particularly interested in exploring emerging technologies and identifying & mitigating their vulnerabilities. His research has been published at major security conferences, including **USENIX Security 2024**, **NDSS 2025**, **Black Hat USA 2025**, and **S&P2026**.  
 
 ## 🎓 Education
 
@@ -50,7 +50,9 @@ His research interests include protocol security, web security, and AI security.
 
 ## 📰 News  
 
-- <span style="color:#1a73e8; font-weight:bold;">Aug 2025</span> - Our work: *Identifying Logical Vulnerabilities in QUIC Implementations* is accepted by **NDSS 2026** 🎉🎉🎉 [To Appear]
+- <span style="color:#1a73e8; font-weight:bold;">Mar 2026</span> - Our work: *LLMThief: Evaluating Configuration Leaking Risks in Commercial LLM App Stores* is accepted by **S&P 2026** 🎉🎉🎉 [To appear]
+
+- <span style="color:#1a73e8; font-weight:bold;">Aug 2025</span> - Our work: *Identifying Logical Vulnerabilities in QUIC Implementations* is accepted by **NDSS 2026** 🎉🎉🎉 [[Link]](https://jianjunchen.com/p/quic-logic.NDSS26.pdf)
 
 - <span style="color:#1a73e8; font-weight:bold;">Aug 2025</span> — Honored to be a *Briefings Speaker* at **Black Hat USA 2025** 🎉🎉🎉  Awesome experience in Las Vegas! Incredible event 👍👍👍 [[Link]](https://www.blackhat.com/us-25/briefings/schedule/index.html#cross-origin-web-attacks-via-http2-server-push-and-signed-http-exchange-45150)
 
