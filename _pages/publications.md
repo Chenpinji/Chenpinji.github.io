@@ -9,7 +9,7 @@ author_profile: true
 *2026 IEEE Symposium on Security and Privacy **(S&P'26)***    
 **Pinji Chen**, Jinlong Jiang, Jianjun Chen, Feiran Qin, Minghao Zhang, Jiahe Zhang, Haixin Duan, Kaiwen Shen, Hui Jiang
 
-[To appear]
+[📄 Paper](/files/sp2026c2-final947.pdf)
 
 **[2] Identifying Logical Vulnerabilities in QUIC Implementations**  
 *Proceedings of the 2026 Network and Distributed System Security Symposium **(NDSS'26)***    
