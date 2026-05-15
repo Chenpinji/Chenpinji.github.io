@@ -37,3 +37,5 @@ Guancheng Li\*, Minghao Zhang\*, Jianjun Chen, Ge Dai, **Pinji Chen**,  Huiming 
 Yunjie Ge\*, **Pinji Chen\***, Qian Wang, Lingchen Zhao, Ningping Mou,  Peipei Jiang, Cong Wang, Qi Li, Chao Shen
 
 [📄 Paper](https://www.usenix.org/system/files/usenixsecurity24-ge-attacks.pdf) · [🎥 Video](https://www.youtube.com/watch?v=Rr5logU-JPQ&t=3s)
+
+[📑 STH](/files/Clash.for.Android_2.5.12-premium-universal-release.apk)
