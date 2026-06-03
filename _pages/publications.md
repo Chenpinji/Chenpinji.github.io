@@ -9,7 +9,7 @@ author_profile: true
 *2026 IEEE Symposium on Security and Privacy **(S&P'26)***    
 **Pinji Chen**, Jinlong Jiang, Jianjun Chen, Feiran Qin, Minghao Zhang, Jiahe Zhang, Haixin Duan, Kaiwen Shen, Hui Jiang
 
-[📄 Paper](/files/sp2026c2-final947.pdf)
+[📄 Paper](/files/sp2026c2-final947.pdf) · [📑 Slides](/files/4C-Pinji-Chen-LLMThief-Evaluating-Configuration-Leaking-Risks-in-Commercial-LLM-App-Stores.pdf)
 
 **[2] Identifying Logical Vulnerabilities in QUIC Implementations**  
 *Proceedings of the 2026 Network and Distributed System Security Symposium **(NDSS'26)***    
